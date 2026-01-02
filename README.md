@@ -7,12 +7,8 @@ and turn Into a Versatile Super Network runner for python.
  Change A Parameter Engine into Loading Language Parameters
 for Dathu Code Language with Python
 
-
-
-
 ```
-
-`````` will generate a Python script designed to act as a batch runner for both Jupyter Notebooks and network terminal commands. This tool includes two core functionalities: executing `.ipynb` files via `nbconvert` and running system network commands (like `ping`, `tracert`, or `netstat`) in a batch sequence.
+l generate a Python script designed to act as a batch runner for both Jupyter Notebooks and network terminal commands. This tool includes two core functionalities: executing `.ipynb` files via `nbconvert` and running system network commands (like `ping`, `tracert`, or `netstat`) in a batch sequence.
 
 ### Key Components Explained:
 
