@@ -29,3 +29,15 @@ This [guide on converting Jupyter to Python](https://www.youtube.com/watch?v=6gQ
 http://googleusercontent.com/youtube_content/0
 
 ```
+
+
+
+
+
+# Making Dathu Route Instanse Functions
+
+- Building as A Dathu Instance Function and Running outside Network , And Settle Routing Parameters
+  as a Novel Phase Fast Virtual Instance in Dathu and Run it as a Batch Job
+
+  to set it inside e cli environment and run it as larger datasets scale returner of
+  dathu analysis batcher
