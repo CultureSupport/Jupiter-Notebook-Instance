@@ -36,4 +36,7 @@ The generated output will include:
 
 We can turn Apps into Brigde With Dathu and Parallel Drive Instanses and Side Crossing android and iOS
 
-Use Dathu as Engine to Run Large iOS And Android. It Wil Also Be Option To Generate as Virtual Parser and Run Large Pre Coded Dathu Code Projects, and Execute Apps into Software Kernels 
+Use Dathu as Engine to Run Large iOS And Android. It Wil Also Be Option To Generate as Virtual Parser and Run Large Pre Coded Dathu Code Projects, and Execute Apps into Software Kernels , And Run Operative System Change on Android and IOS and Be Compiler for also Turn Away The Need of Boot Stick in Kernels of Rooting Android and ios
+
+this will be no depended bootsticks or usb flash drive tricks, because its transform side crossing with Dathu
+and is running instance as dathu booting
