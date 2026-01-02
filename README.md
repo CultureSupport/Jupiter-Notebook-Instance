@@ -29,10 +29,10 @@ The generated output will include:
 3. Inside, you will find the 20MB `.dathu` file containing the generated functions.
 4. The `core` directory provides the bridge for Android/iOS cross-platform execution.
 
-```
 
 
-# Use Dathu in Side Way of iOS apps and Android
+
+## Use Dathu in Side Way of iOS apps and Android
 
 We can turn Apps into Brigde With Dathu and Parallel Drive Instanses and Side Crossing android and iOS
 
