@@ -1,7 +1,7 @@
 # Jupiter-Notebook-Instance
 
 ```
-nning Speed Exections on Instance of Python
+Running Speed Exections on Instance of Python
 inside Jupiter Notebooks,
 and turn Into a Versatile Super Network runner for python.
  Change A Parameter Engine into Loading Language Parameters
